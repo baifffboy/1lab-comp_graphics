@@ -1,0 +1,10 @@
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\bin\Debug\komp_grafics_filters_1lab.exe.config
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\bin\Debug\komp_grafics_filters_1lab.exe
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\bin\Debug\komp_grafics_filters_1lab.pdb
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.csproj.AssemblyReference.cache
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.Form1.resources
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.Properties.Resources.resources
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.csproj.GenerateResource.cache
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.exe
+C:\Users\ilya_\source\repos\komp_grafics_filters_1lab\obj\Debug\komp_grafics_filters_1lab.pdb
